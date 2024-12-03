@@ -1,7 +1,10 @@
 # GameDevFinal
-Final project from game development. NSE 4
-Students: Farangiz Ismoilova_210185
-          Charos Abdusattorova_210160
-          Akhborkhuja Yodgorov_210181
-          Temur Umidov_210023
+# **Final Project from Game Development - NSE 4**
+
+## Students:
+- **Farangiz Ismoilova** - 210185  
+- **Charos Abdusattorova** - 210160  
+- **Akhborkhuja Yodgorov** - 210181  
+- **Temur Umidov** - 210023  
+
           
